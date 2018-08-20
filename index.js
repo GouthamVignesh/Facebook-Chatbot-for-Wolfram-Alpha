@@ -89,7 +89,7 @@ var Client = require('node-wolfram');
         continue
       }
   }*/
-  var Wolfram = new Client('8WQXLX-RXP44VTAEG');  
+  var Wolfram = new Client('GL8PLH-LYUR4J5XTU');  
   //console.log("wolfram name")
   //console.log(Wolfram)
   function rateProf(text) {
